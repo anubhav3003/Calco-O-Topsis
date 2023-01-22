@@ -36,4 +36,4 @@ weights vector = [ 0.25 , 0.25 , 0.50 , 0.25 , 0.50 ]
 impacts vector = [ + , - , + , - , + ]
 
 ## License
-MIT
+MIT 
